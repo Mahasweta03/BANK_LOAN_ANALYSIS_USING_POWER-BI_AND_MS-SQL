@@ -1,4 +1,4 @@
-# BreadcrumbsBANK_LOAN_ANALYSIS_USING_POWER-BI_AND_MS-SQL
+# BANK_LOAN_ANALYSIS_USING_POWER-BI_AND_MS-SQL
 This repository contains a comprehensive Bank Loan Analysis report developed using **Power BI** and **MS SQL**. The report offers in-depth insights into loan applications, disbursements, repayment trends, and various other performance indicators. It is designed to assist financial institutions in making data-driven decisions regarding their lending operations.
 
 ## Report Overview
